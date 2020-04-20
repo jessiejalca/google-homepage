@@ -95,6 +95,7 @@ img.logo {
     width: 300px;
     margin-top: 175px;
     margin-bottom: 25px;
+    cursor: pointer;
 }
 
 /* SEARCHBAR */
