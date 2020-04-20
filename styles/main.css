@@ -52,6 +52,7 @@ li {
     padding-right: 20px;
 }
 
+/* APPS ICON */
 #apps-icon {
     position: relative;
     top: 7px;
@@ -60,6 +61,26 @@ li {
 
 #apps-icon:hover {
     opacity: 1;
+}
+
+/* SIGN IN BUTTON */
+#signin {
+    display: inline-block;
+    position: relative;
+    vertical-align: middle;
+}
+
+#signin-btn {
+    background: #4387fd;
+    color: #fff;
+    border: 1px solid #4285f4;
+    border-radius: 2px;
+    font-weight: bold;
+    outline: none;
+    height: 30px;
+    padding-left: 12px;
+    padding-right: 12px;
+    cursor: pointer;
 }
 
 /* <----------- Main -----------> */
