@@ -13,6 +13,10 @@ a {
     text-decoration: none;
 }
 
+a:hover {
+    text-decoration: underline;
+}
+
 /* --------- Header/Footer ---------> */
 header, footer {
     position: fixed;
@@ -45,10 +49,6 @@ li {
 .nav-right {
     float: right;
     padding-right: 20px;
-}
-
-li a:hover {
-    text-decoration: underline;
 }
 
 /* <----------- Main -----------> */
