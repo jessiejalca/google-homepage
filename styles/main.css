@@ -18,6 +18,7 @@ header, footer {
     position: fixed;
     width: 100%;
     line-height: 40px;
+    min-width: 980px;
 }
 
 footer {
@@ -48,5 +49,10 @@ li {
 
 /* <----------- Main -----------> */
 main {
-    margin: 0 auto;
+    text-align: center;
+}
+
+img.logo {
+    width: 400px;
+    margin-top: 150px;
 }
