@@ -135,7 +135,7 @@ img.logo-search {
     cursor: pointer;
 }
 
-.searchborder {
+.search-border {
     border-left: 1px solid #dfe1e5;
     height: 65%;
     margin-top: 7px;
@@ -212,6 +212,17 @@ nav {
 
 li {
     cursor: pointer;
+}
+
+/* NAVIGATION BORDER */
+.current {
+    color: #1A73E8;
+    border-bottom: 3px solid #1A73E8;
+}
+
+.nav-border {
+    border-bottom: 1px solid #dfe1e5;
+    margin-top: 102px;
 }
 /* ---------------------- END OF UNIQUE TO SEARCH.HTML (navigation) */
 
