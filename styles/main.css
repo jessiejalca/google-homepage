@@ -122,7 +122,23 @@ img.logo-search {
     margin-top: 5px;
     flex: 100%;
     height: 34px;
+    width: 533px;
     font-size: 16px;
+}
+
+#clear-icon {
+    display: flex;
+    align-items: center;
+    padding-left: 13px;
+    padding-right: 13px;
+    color: #80868b;
+    cursor: pointer;
+}
+
+.searchborder {
+    border-left: 1px solid #dfe1e5;
+    height: 65%;
+    margin-top: 7px;
 }
 
 #search-icon2 {
@@ -177,7 +193,6 @@ nav {
     top: 75px;
     padding-top: 15px;
     color: #5f6368;
-    font-size: 12px;
 }
 
 .nav-left {
