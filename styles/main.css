@@ -129,18 +129,31 @@ img.logo-search {
     color: #4285f4;
 }
 
+/* apps icon */
+#apps-icon2 {
+    position: relative;
+    bottom: 47px;
+    opacity: 0.75;
+}
+
+#apps-icon2:hover {
+    opacity: 1;
+}
+
 /* sign in button */
 #signin-btn {
-    background: #4387fd;
+    background: #1a73e8;
     color: #fff;
     border: 1px solid #4285f4;
-    border-radius: 2px;
-    font-weight: bold;
+    border-radius: 4px;
     outline: none;
-    height: 30px;
+    height: 36px;
+    width: 96px;
     padding-left: 12px;
     padding-right: 12px;
     cursor: pointer;
+    position: relative;
+    bottom: 53px;
 }
 /* ---------------------- END OF UNIQUE TO SEARCH.HTML */
 
