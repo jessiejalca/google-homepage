@@ -176,6 +176,8 @@ nav {
     position: relative;
     top: 75px;
     padding-top: 15px;
+    color: #5f6368;
+    font-size: 12px;
 }
 
 .nav-left {
@@ -190,6 +192,11 @@ nav {
 
 .nav-right {
     float: right;
+    padding-right: 20px;
+}
+
+li {
+    cursor: pointer;
 }
 /* ---------------------- END OF UNIQUE TO SEARCH.HTML (navigation) */
 
