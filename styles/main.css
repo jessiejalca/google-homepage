@@ -85,7 +85,7 @@ li {
     cursor: pointer;
 }
 
-/* ---------------------------- UNIQUE TO SEARCH.HTML */
+/* ---------------------------- UNIQUE TO SEARCH.HTML (header/footer) */
 /* google logo */
 img.logo-search {
     width: 90px;
@@ -168,7 +168,30 @@ img.logo-search {
     position: relative;
     bottom: 53px;
 }
-/* ---------------------- END OF UNIQUE TO SEARCH.HTML */
+/* ---------------------- END OF UNIQUE TO SEARCH.HTML (header/footer) */
+
+/* ---------------------------- UNIQUE TO SEARCH.HTML (navigation) */
+/* <----------- Navigation ------------> */
+nav {
+    position: relative;
+    top: 75px;
+    padding-top: 15px;
+}
+
+.nav-left {
+    float: left;
+    padding-left: 150px;
+}
+
+.nav-mid {
+    float: left;
+    padding-left: 75px;
+}
+
+.nav-right {
+    float: right;
+}
+/* ---------------------- END OF UNIQUE TO SEARCH.HTML (navigation) */
 
 /* <----------- Main -----------> */
 main {
