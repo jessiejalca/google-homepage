@@ -75,19 +75,20 @@ li {
 /* ---------------------------- UNIQUE TO SEARCH.HTML */
 /* google logo */
 img.logo-search {
-    width: 100px;
-    margin-top: 20px;
+    width: 90px;
+    margin-top: 10px;
+    padding-right: 30px;
 }
 
 /* search bar */
 #searchbar2 {
+    margin-top: 20px;
     display: flex;
     border: 1px solid #dfe1e5;
     box-shadow: none;
     border-radius: 24px;
     height: 44px;
-    margin: 0 auto;
-    width: 525px;
+    width: 690px;
 }
 
 #searchbar2:hover {
@@ -100,6 +101,7 @@ img.logo-search {
     border: none;
     margin: 0;
     padding: 0;
+    padding-left: 20px;
     color: rgba(0,0,0,.87);
     word-wrap: break-word;
     outline: none;
@@ -113,9 +115,9 @@ img.logo-search {
 #search-icon2 {
     display: flex;
     align-items: center;
-    padding-left: 13px;
     padding-right: 13px;
-    opacity: 0.5;
+    margin-top: 10px;
+    color: #4285f4;
 }
 
 #mic-icon2 {
@@ -124,7 +126,7 @@ img.logo-search {
     padding-left: 13px;
     padding-right: 13px;
     margin-top: 10px;
-    opacity: 0.5;
+    color: #4285f4;
 }
 
 /* sign in button */
@@ -140,7 +142,7 @@ img.logo-search {
     padding-right: 12px;
     cursor: pointer;
 }
-/* ---------------------------- END OF UNIQUE TO SEARCH.HTML */
+/* ---------------------- END OF UNIQUE TO SEARCH.HTML */
 
 /* <----------- Main -----------> */
 main {
