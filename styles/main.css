@@ -72,6 +72,19 @@ li {
     bottom: 2px;
 }
 
+#signin-btn {
+    background: #4387fd;
+    color: #fff;
+    border: 1px solid #4285f4;
+    border-radius: 2px;
+    font-weight: bold;
+    outline: none;
+    height: 30px;
+    padding-left: 12px;
+    padding-right: 12px;
+    cursor: pointer;
+}
+
 /* ---------------------------- UNIQUE TO SEARCH.HTML */
 /* google logo */
 img.logo-search {
@@ -141,7 +154,7 @@ img.logo-search {
 }
 
 /* sign in button */
-#signin-btn {
+#signin-btn2 {
     background: #1a73e8;
     color: #fff;
     border: 1px solid #4285f4;
