@@ -193,10 +193,10 @@ img.logo-search {
 
 /* footer */
 #search-footer {
-    position: absolute;
+    display: fixed;
     bottom: 0;
+    width: 100%;
     padding-left: 150px;
-    width: 100%
 }
 /* ---------------------- END OF UNIQUE TO SEARCH.HTML (header/footer) */
 
@@ -365,7 +365,7 @@ img.logo-index {
     color: #4d5156;
 }
 
-/* RELATED SEARCHES */
+/* related searches */
 #related-searches {
     padding-top: 25px;
     display: block;
