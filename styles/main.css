@@ -357,4 +357,32 @@ img.logo-index {
     color: #4d5156;
 }
 
+/* RELATED SEARCHES */
+#related-searches {
+    padding-top: 25px;
+    display: block;
+}
+
+#related-title {
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+
+.related {
+    display: block;
+}
+
+.blue-link {
+    color: #1a0dab;
+    font-size: 16px;
+}
+
+#related-left {
+    float: left;
+}
+
+#related-right {
+    float: right;
+}
+
 /* ---------------------- END OF UNIQUE TO SEARCH.HTML (main) */
