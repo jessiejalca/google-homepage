@@ -344,13 +344,6 @@ img.logo-index {
     padding-top: 15px;
 }
 
-.search-result {
-    padding-top: 25px;
-    width: 600px;
-    line-height: 1.58;
-    word-wrap: break-word;
-}
-
 #result {
     padding: 15px;
     width: 600px;
@@ -372,6 +365,13 @@ img.logo-index {
 
 .search-link .special {
     padding-left: 10px;
+}
+
+.search-result {
+    padding-top: 25px;
+    width: 600px;
+    line-height: 1.58;
+    word-wrap: break-word;
 }
 
 .search-details {
