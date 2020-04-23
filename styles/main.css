@@ -190,6 +190,14 @@ img.logo-search {
     position: relative;
     bottom: 53px;
 }
+
+/* footer */
+#search-footer {
+    position: absolute;
+    bottom: 0;
+    padding-left: 150px;
+    width: 100%
+}
 /* ---------------------- END OF UNIQUE TO SEARCH.HTML (header/footer) */
 
 /* ---------------------------- UNIQUE TO SEARCH.HTML (navigation) */
@@ -384,5 +392,4 @@ img.logo-index {
 #related-right {
     float: right;
 }
-
 /* ---------------------- END OF UNIQUE TO SEARCH.HTML (main) */
