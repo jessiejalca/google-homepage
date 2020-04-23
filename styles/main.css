@@ -188,6 +188,7 @@ img.logo-search {
 
 /* ---------------------------- UNIQUE TO SEARCH.HTML (navigation) */
 /* <----------- Navigation ------------> */
+/* NAVIGATION STRUCTURE */
 nav {
     position: relative;
     top: 75px;
@@ -227,7 +228,7 @@ li {
 /* ---------------------- END OF UNIQUE TO SEARCH.HTML (navigation) */
 
 /* <----------- Main -----------> */
-main {
+#home-main {
     text-align: center;
 }
 
