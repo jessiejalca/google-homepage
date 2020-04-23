@@ -315,3 +315,40 @@ img.logo-index {
 .promo {
     color: #1a0dab;
 }
+
+/* ----------------------------- UNIQUE TO SEARCH.HTML (main) */
+#search-main {
+    padding-top: 10px;
+    padding-left: 150px;
+    width: 650px;
+}
+
+#search-content {
+    padding-top: 15px;
+}
+
+.search-result {
+    padding-top: 25px;
+    width: 600px;
+    line-height: 1.58;
+    word-wrap: break-word;
+}
+
+.search-details {
+    color: #202124;
+}
+
+.search-source {
+    color: #5f6368;
+}
+
+.search-link {
+    font-size: 20px;
+    color: #1a0dab;
+}
+
+.website-summary {
+    color: #4d5156;
+}
+
+/* ---------------------- END OF UNIQUE TO SEARCH.HTML (main) */
