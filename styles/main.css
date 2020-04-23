@@ -7,6 +7,8 @@
 
 body {
     display: block;
+    position: relative;
+    height: 100%;
 }
 
 a {
@@ -193,7 +195,7 @@ img.logo-search {
 
 /* footer */
 #search-footer {
-    display: fixed;
+    position: absolute;
     bottom: 0;
     width: 100%;
     padding-left: 150px;
@@ -202,7 +204,7 @@ img.logo-search {
 
 /* ---------------------------- UNIQUE TO SEARCH.HTML (navigation) */
 /* <----------- Navigation ------------> */
-/* NAVIGATION STRUCTURE */
+/* navigation structure */
 nav {
     position: relative;
     top: 75px;
@@ -229,7 +231,7 @@ li {
     cursor: pointer;
 }
 
-/* NAVIGATION BORDER */
+/* navigation border */
 .current {
     color: #1A73E8;
     border-bottom: 3px solid #1A73E8;
@@ -334,6 +336,7 @@ img.logo-index {
 #search-main {
     padding-top: 10px;
     padding-left: 150px;
+    padding-bottom: 200px;
     width: 650px;
 }
 
